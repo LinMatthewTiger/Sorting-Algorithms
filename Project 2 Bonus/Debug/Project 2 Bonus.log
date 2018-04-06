@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\matthew\documents\c++ projects\project 2 bonus\main.cpp(119): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project 2 Bonus.vcxproj -> C:\Users\Matthew\Documents\C++ Projects\Project 2 Bonus\Debug\Project 2 Bonus.exe
