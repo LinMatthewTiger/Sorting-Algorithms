@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\matthew\documents\data structures projects\comb_sort\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\matthew\documents\data structures projects\comb_sort\main.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\matthew\documents\data structures projects\comb_sort\main.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\documents\data structures projects\comb_sort\main.cpp(45): warning C4101: 'temp': unreferenced local variable
+  Comb_Sort.vcxproj -> C:\Users\Matthew\Documents\Data Structures Projects\Comb_Sort\Debug\Comb_Sort.exe

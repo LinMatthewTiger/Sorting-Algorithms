@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\matthew\documents\data structures projects\quick_sort\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 201 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Quick_Sort.vcxproj -> C:\Users\Matthew\Documents\Data Structures Projects\Quick_Sort\Release\Quick_Sort.exe

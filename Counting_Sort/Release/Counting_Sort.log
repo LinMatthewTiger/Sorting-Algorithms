@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\matthew\documents\data structures projects\counting_sort\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\matthew\documents\data structures projects\counting_sort\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\documents\data structures projects\counting_sort\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Counting_Sort.vcxproj -> C:\Users\Matthew\Documents\Data Structures Projects\Counting_Sort\Release\Counting_Sort.exe

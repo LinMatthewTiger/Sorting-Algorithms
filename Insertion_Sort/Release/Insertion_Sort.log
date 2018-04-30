@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\matthew\documents\data structures projects\insertion_sort\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\matthew\documents\data structures projects\insertion_sort\main.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 200 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Insertion_Sort.vcxproj -> C:\Users\Matthew\Documents\Data Structures Projects\Insertion_Sort\Release\Insertion_Sort.exe
